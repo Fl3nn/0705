@@ -21,7 +21,6 @@ let pause = false;
 let hide = false;
 let max = 5;
 let min = 0;
-let ran;
 
 function changeImage() {
     if (imgIndex >= images.length - 1) {
